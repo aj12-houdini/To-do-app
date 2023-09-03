@@ -1,6 +1,6 @@
 # To-Do List App using Node.js, EJS, and MongoDB
 
-![To-Do List App Screenshot](public\screenshots\screenshot1.jpg)
+![To-Do List App Screenshot](/public/screenshots/screenshot1.jpg)
 
 The To-Do List App is a web-based application built with Node.js, EJS, and MongoDB that allows users to create, manage, and track their tasks efficiently.
 
@@ -43,7 +43,7 @@ The To-Do List App is a web-based application built with Node.js, EJS, and Mongo
 
 ## Screenshots
 
-![To-Do List App Screenshot](public\screenshots\screenshot.jpg)
+![To-Do List App Screenshot](public/screenshots/screenshot.jpg)
 
 ## Contributing
 
