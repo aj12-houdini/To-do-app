@@ -12,11 +12,6 @@ The To-Do List App is a web-based application built with Node.js, EJS, and Mongo
 - User-friendly interface for a seamless task management experience.
 - Real-time updates and data persistence through MongoDB.
 
-## Demo
-
-![To-Do List App Demo GIF](demo.gif)
-
-
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/aj12-houdini/To-do-app.git`
